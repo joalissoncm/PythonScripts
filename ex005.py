@@ -1,5 +1,4 @@
 # Programa ler um número e retorna o seu dobro trilho e raiz quadrada
-
 num = int(input('Digite um número: '))
 d = num * 2
 t = num * 3
