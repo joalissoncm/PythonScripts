@@ -1,5 +1,4 @@
 #Programa recebe o cateto oposto e o adjacente e retorma o comprimento da hipotenusa
-
 import math
 co = float(input('Comprimento do cateto oposto: '))
 ca = float(input('Comprimento do cateto adjacente: '))
