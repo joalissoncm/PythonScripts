@@ -1,5 +1,4 @@
 #Programa calcula se o número é par ou ímpar
-
 num = int(input('Digite um número: '))
 num2 = num % 2
 if num2 == 0:
