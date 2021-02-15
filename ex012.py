@@ -1,5 +1,4 @@
 # Programa recebe dois números inteiros e mostra qual é o maior ou se são valores iguais
-
 num1 = int(input('Digite o primeiro número: '))
 num2 = int(input('Digite o segundo número: '))
 
