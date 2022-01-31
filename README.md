@@ -1,4 +1,4 @@
-![kisspng-](https://user-images.githubusercontent.com/63914002/151862126-4cb2c342-e6bc-4972-b5d4-0b152703d207.jpg)
+![Python_logo_and_wordmark svg](https://user-images.githubusercontent.com/63914002/151862839-257c8533-0e48-4662-acc7-eda1bc23fc28.png)
 
 
 
