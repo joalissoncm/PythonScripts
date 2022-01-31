@@ -1,6 +1,4 @@
-![Python_logo_and_wordmark svg](https://user-images.githubusercontent.com/63914002/151862839-257c8533-0e48-4662-acc7-eda1bc23fc28.png)
-
-
+![Sem Título-1](https://user-images.githubusercontent.com/63914002/151891636-8860cebc-592a-492f-925e-75637a1f142f.png)
 
 # PythonExercícios
 
