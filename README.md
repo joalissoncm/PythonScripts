@@ -7,3 +7,5 @@
 
 Programas básicos em Python
 Programas básicos em Python usando estruturas condicionais como if, elif, estruturas de repetição como For e while, Tuplas, Listas, Dicionários e Funções... 
+
+![Python básico](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/B%C3%A1sico)
