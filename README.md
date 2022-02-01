@@ -4,8 +4,11 @@
 
 
 Programas básicos em Python
-Programas básicos em Python usando estruturas condicionais como if, elif, estruturas de repetição como For e while, Tuplas, Listas, Dicionários e Funções... 
 
+PORT: Programas básicos em Python usando estruturas condicionais como if, elif, estruturas de repetição como For e while, Tuplas, Listas, Dicionários e Funções... 
+
+
+ENG: Basic Python Scripts Basic Python programs in conditional structures like if, elif, repetition structures like For and while, Tuples, Lists, Dictionaries and...
 
 ![tick](https://user-images.githubusercontent.com/63914002/151888455-0795e7f9-4fc9-4354-9245-8b523dc8860f.png)[ Básico](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/B%C3%A1sico)
 
