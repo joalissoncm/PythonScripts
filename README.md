@@ -10,8 +10,8 @@ PORT: Programas básicos em Python usando estruturas condicionais como if, elif,
 
 ENG: Basic Python Scripts Basic Python programs in conditional structures like if, elif, repetition structures like For and while, Tuples, Lists, Dictionaries and...
 
-![tick](https://user-images.githubusercontent.com/63914002/151888455-0795e7f9-4fc9-4354-9245-8b523dc8860f.png)[ Básico](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/B%C3%A1sico)
+![tick](https://user-images.githubusercontent.com/63914002/151888455-0795e7f9-4fc9-4354-9245-8b523dc8860f.png)[ Básico/Basic](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/B%C3%A1sico)
 
-![tick](https://user-images.githubusercontent.com/63914002/151888455-0795e7f9-4fc9-4354-9245-8b523dc8860f.png)[ Estrutura de Decisão e Repetição](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/Estrutura%20de%20Decis%C3%A3o%20e%20Repeti%C3%A7%C3%A3o)
+![tick](https://user-images.githubusercontent.com/63914002/151888455-0795e7f9-4fc9-4354-9245-8b523dc8860f.png)[ Estrutura de Decisão e Repetição/Decision and Repetition Structures](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/Estrutura%20de%20Decis%C3%A3o%20e%20Repeti%C3%A7%C3%A3o)
 
-![tick](https://user-images.githubusercontent.com/63914002/151888455-0795e7f9-4fc9-4354-9245-8b523dc8860f.png)[ Funções, Listas e Tuplas](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/Fun%C3%A7%C3%B5es%2C%20Listas%20e%20Tuplas)
+![tick](https://user-images.githubusercontent.com/63914002/151888455-0795e7f9-4fc9-4354-9245-8b523dc8860f.png)[ Funções, Listas e Tuplas/Functions, Lists and Tuples](https://github.com/joalissoncm/PythonExercicios/tree/master/scripts/Fun%C3%A7%C3%B5es%2C%20Listas%20e%20Tuplas)
