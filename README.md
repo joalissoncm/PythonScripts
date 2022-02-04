@@ -1,6 +1,6 @@
 ![Sem Título-1](https://user-images.githubusercontent.com/63914002/151891636-8860cebc-592a-492f-925e-75637a1f142f.png)
 
-# PythonExercícios
+# PythonScripts
 
 
 Programas básicos em Python
