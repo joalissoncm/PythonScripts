@@ -1,7 +1,7 @@
 ![Sem Título-1](https://user-images.githubusercontent.com/63914002/151891636-8860cebc-592a-492f-925e-75637a1f142f.png)
 
 # PythonScripts
-
+Aqui você pode encontrar scripts em python para te ajudar no seu aprendizado :).
 
 Programas básicos em Python
 
