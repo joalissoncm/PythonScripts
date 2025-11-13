@@ -1,0 +1,50 @@
+- name: Calculate Version
+        id: version
+        run: |
+          # Detectar tipo de build
+          if [[ "${{ github.event_name }}" == "push" ]]; then
+            BRANCH_NAME="${{ github.ref_name }}"
+            
+            case "${BRANCH_NAME}" in
+              master|main)
+                VERSION_PREFIX="1.0"
+                VERSION_SUFFIX=""
+                ;;
+              develop)
+                VERSION_PREFIX="1.0"
+                VERSION_SUFFIX="-dev"
+                ;;
+              release*)
+                VERSION_PREFIX="1.0"
+                VERSION_SUFFIX="-rc"
+                ;;
+              hotfix*)
+                VERSION_PREFIX="1.0"
+                VERSION_SUFFIX="-hotfix"
+                ;;
+              *)
+                VERSION_PREFIX="0.0"
+                VERSION_SUFFIX="-${BRANCH_NAME//\//-}"
+                ;;
+            esac
+          else
+            # Pull Request
+            VERSION_PREFIX="0.0"
+            VERSION_SUFFIX="-pr${{ github.event.pull_request.number }}"
+          fi
+          
+          BUILD_NUMBER="${{ github.run_number }}"
+          SHORT_SHA=$(git rev-parse --short HEAD)
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          
+          VERSION="${VERSION_PREFIX}.${BUILD_NUMBER}${VERSION_SUFFIX}"
+          VERSION_CODE="${BUILD_NUMBER}"
+          ARTIFACT_NAME="kotlin-app-${VERSION}"
+          
+          echo "version=${VERSION}" >> $GITHUB_OUTPUT
+          echo "version_code=${VERSION_CODE}" >> $GITHUB_OUTPUT
+          echo "artifact_name=${ARTIFACT_NAME}" >> $GITHUB_OUTPUT
+          
+          echo "📦 Version: ${VERSION}"
+          echo "🔢 Version Code: ${VERSION_CODE}"
+          echo "📁 Artifact: ${ARTIFACT_NAME}"
